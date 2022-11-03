@@ -1,0 +1,45 @@
+{
+  "name": "fontend-vscode-extension-pack",
+  "displayName": "Fontend Extension Pack",
+  "description": "Popular VS Code extensions for Fontend development.",
+  "version": "0.1.0",
+  "publisher": "Cyberhan123",
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "node",
+    "fontend",
+    "javascript",
+    "es6"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/Cyberhan123/fontend-vscode-extension-pack"
+  },
+  "homepage": "https://github.com/Cyberhan123/fontend-vscode-extension-pack",
+  "bugs": {
+    "url": "https://github.com/Cyberhan123/fontend-vscode-extension-pack/issues"
+  },
+  "extensionDependencies": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "zxh404.vscode-proto3",
+    "redhat.vscode-yaml",
+    "dbaeumer.vscode-eslint",
+    "jasonnutter.search-node-modules",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense"
+  ]
+}
