@@ -3,7 +3,7 @@
   "displayName": "Frontend Extension Pack",
   "description": "Popular VS Code extensions for Frontend development.",
   "version": "0.1.0",
-  "publisher": "Cyberhan123",
+  "publisher": "Cyberhan",
   "engines": {
     "vscode": "^1.15.0"
   },
