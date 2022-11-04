@@ -1,6 +1,6 @@
-# Fontend Extension Pack
+# Frontend Extension Pack
 
-One for all fontend extension pack
+One for all frontend extension pack
 
 ## Extensions Included
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag). 
