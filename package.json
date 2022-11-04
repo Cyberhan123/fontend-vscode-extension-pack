@@ -1,7 +1,7 @@
 {
-  "name": "fontend-vscode-extension-pack",
-  "displayName": "Fontend Extension Pack",
-  "description": "Popular VS Code extensions for Fontend development.",
+  "name": "frontend-vscode-extension-pack",
+  "displayName": "Frontend Extension Pack",
+  "description": "Popular VS Code extensions for Frontend development.",
   "version": "0.1.0",
   "publisher": "Cyberhan123",
   "engines": {
@@ -24,11 +24,11 @@
     "Extension Packs"
   ],
   "repository": {
-    "url": "https://github.com/Cyberhan123/fontend-vscode-extension-pack"
+    "url": "https://github.com/Cyberhan123/frontend-vscode-extension-pack"
   },
-  "homepage": "https://github.com/Cyberhan123/fontend-vscode-extension-pack",
+  "homepage": "https://github.com/Cyberhan123/frontend-vscode-extension-pack",
   "bugs": {
-    "url": "https://github.com/Cyberhan123/fontend-vscode-extension-pack/issues"
+    "url": "https://github.com/Cyberhan123/frontend-vscode-extension-pack/issues"
   },
   "extensionDependencies": [
     "formulahendry.auto-close-tag",
