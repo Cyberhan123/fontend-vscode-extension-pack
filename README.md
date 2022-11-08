@@ -2,6 +2,8 @@
 
 One for all frontend extension pack
 
+Public By: https://marketplace.visualstudio.com/items?itemName=Cyberhan.frontend-vscode-extension-pack
+
 ## Extensions Included
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag). 
 
